@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParentViewController.swift"
+            timestampString = "525332434.174562"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ParentViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabs_test.ParentViewController.__deallocating_deinit"
+                  moduleName = "tabs_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaziaakhtar/Desktop/tabs_test/ParentViewController.swift"
+                  timestampString = "525327641.854668"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabs_test.ParentViewController.__ivar_destroyer"
+                  moduleName = "tabs_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaziaakhtar/Desktop/tabs_test/ParentViewController.swift"
+                  timestampString = "525327641.856409"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabs_test.ParentViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; tabs_test.ParentViewController"
+                  moduleName = "tabs_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaziaakhtar/Desktop/tabs_test/ParentViewController.swift"
+                  timestampString = "525327641.857996"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabs_test.ParentViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; tabs_test.ParentViewController"
+                  moduleName = "tabs_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaziaakhtar/Desktop/tabs_test/ParentViewController.swift"
+                  timestampString = "525327641.860148"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabs_test.ParentViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;tabs_test.ParentViewController&gt;"
+                  moduleName = "tabs_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaziaakhtar/Desktop/tabs_test/ParentViewController.swift"
+                  timestampString = "525327641.862287"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabs_test.ParentViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;tabs_test.ParentViewController&gt;"
+                  moduleName = "tabs_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaziaakhtar/Desktop/tabs_test/ParentViewController.swift"
+                  timestampString = "525327641.86468"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tabs_test/ChildViewController1.swift"
+            timestampString = "525329200.177553"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ChildViewController1"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabs_test.ChildViewController1.__deallocating_deinit"
+                  moduleName = "tabs_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaziaakhtar/Desktop/tabs_test/tabs_test/ChildViewController1.swift"
+                  timestampString = "525328681.41515"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabs_test.ChildViewController1.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; tabs_test.ChildViewController1"
+                  moduleName = "tabs_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaziaakhtar/Desktop/tabs_test/tabs_test/ChildViewController1.swift"
+                  timestampString = "525328681.417284"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabs_test.ChildViewController1.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; tabs_test.ChildViewController1"
+                  moduleName = "tabs_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaziaakhtar/Desktop/tabs_test/tabs_test/ChildViewController1.swift"
+                  timestampString = "525328681.419704"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabs_test.ChildViewController1.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;tabs_test.ChildViewController1&gt;"
+                  moduleName = "tabs_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaziaakhtar/Desktop/tabs_test/tabs_test/ChildViewController1.swift"
+                  timestampString = "525328681.421734"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tabs_test.ChildViewController1.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;tabs_test.ChildViewController1&gt;"
+                  moduleName = "tabs_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaziaakhtar/Desktop/tabs_test/tabs_test/ChildViewController1.swift"
+                  timestampString = "525328681.423808"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tabs_test/ChildViewController1.swift"
+            timestampString = "525754317.138126"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "indicatorInfo(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParentViewController.swift"
+            timestampString = "525754317.138126"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "viewControllers(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParentViewController.swift"
+            timestampString = "525754317.138126"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "ParentViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
